@@ -1,6 +1,0 @@
-{
-  "appId": "com.tetris.app",
-  "appName": "Tetris",
-  "webDir": "www",
-  "bundledWebRuntime": false
-}
